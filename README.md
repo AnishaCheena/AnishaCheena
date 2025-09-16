@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am a Neuroscience student!!!
+### I am a Neuroscience pre-med student 
 ### I am a peer mentor for the Biodiversity Discovery stream
 <!--
 **AnishaCheena/AnishaCheena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
